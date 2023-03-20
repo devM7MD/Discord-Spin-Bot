@@ -47,4 +47,4 @@ async def spin(ctx):
         # Send message to discord with the item
         await ctx.send(f"**Congratulations {ctx.author.mention} you are win `{item}` :tada: **")
 
-bot.run("MTA2NzE4MjQ2MTExMDQ2MDQ2Ng.GxT5fQ.X28kLE8jsgqyi97WNmHL8Alyp3bQmygn4jInGs")
+bot.run("your-token-here")
