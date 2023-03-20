@@ -5,11 +5,23 @@
 #### This project creates a matrix within the code itself and adds options to it. I will teach you now how you can add transactions inside the robot, etc...
 
 
-#### Step 1 Donwload discord.py module
+### Active your code !
 
 ##### To active your code you should be download discord.py module 
 
-ex : 
+download discord.py module for all environment
 ```
-pip install discord
+pip3 install discord
 ```
+
+##### don't forget put your discord bot token
+
+You should put your discord bot token in : "your-token-here"
+
+
+
+
+
+# Made by devMHMD
+
+#### Discord Account name : M7MD.#0009
