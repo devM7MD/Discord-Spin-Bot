@@ -1,6 +1,6 @@
 # Discord Spin Bot v1
 
-### This is a simple project to make discord span bot
+### This is a simple project to make discord spin bot
 
 #### This project creates a matrix within the code itself and adds options to it. I will teach you now how you can add transactions inside the robot, etc...
 
